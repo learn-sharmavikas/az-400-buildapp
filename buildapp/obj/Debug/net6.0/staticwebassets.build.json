@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "L272D5qxZHJ1AEOay4uP8t4JEof7Ye0wYGWxPcBTbe8=",
+  "Source": "buildapp",
+  "BasePath": "_content/buildapp",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

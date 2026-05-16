@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "VnyJGbq8w2B8ubzWTCGBY6QjJQnOAYc7jxtflO48MK401nOrVhNO8BfCFEnZksHa4ySlCE/OJiovqBUmFORijg==",
+  "success": true,
+  "projectFilePath": "/Volumes/SanDisk/AZ-400/VisualStudioProjects/buildapp/buildapp/buildapp.csproj",
+  "expectedPackageFiles": [
+    "/Users/neovidal/.nuget/packages/microsoft.aspnetcore.app.ref/6.0.31/microsoft.aspnetcore.app.ref.6.0.31.nupkg.sha512",
+    "/Users/neovidal/.nuget/packages/microsoft.netcore.app.host.osx-x64/6.0.31/microsoft.netcore.app.host.osx-x64.6.0.31.nupkg.sha512",
+    "/Users/neovidal/.nuget/packages/microsoft.netcore.app.ref/6.0.31/microsoft.netcore.app.ref.6.0.31.nupkg.sha512"
+  ],
+  "logs": []
+}
